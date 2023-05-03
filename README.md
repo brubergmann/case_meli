@@ -16,4 +16,4 @@ Entrega:
 3. Previsão de Falha
 Entrega: 
 - Jupyter notebook com o modelo preditivo - **Arquivo MELI - Challenge 3.ipynb**
-- Tabela atualizada com a predição da falha - **Aquivo full_devices.csv**
+- Tabela atualizada com a predição da falha - **Aquivo full_devices_final.csv**
