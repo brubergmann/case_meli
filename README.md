@@ -6,7 +6,7 @@
 
 1. Explorar as ofertas relámpagos e gerar insights:
 Entrega: 
-- Jupyter notebook com a EDA - **Arquivo XXX**
+- Jupyter notebook com a EDA - **Arquivo MELI - Challenge 1 - EDA.ipynb**
 
 2. Similaridades de Produtos
 Entrega: 
@@ -15,5 +15,5 @@ Entrega:
 
 3. Previsão de Falha
 Entrega: 
-- Jupyter notebook com o modelo preditivo - **Arquivo XXX**
+- Jupyter notebook com o modelo preditivo - **Arquivo MELI - Challenge 3.ipynb**
 - Tabela atualizada com a predição da falha - **Aquivo full_devices.csv**
