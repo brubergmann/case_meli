@@ -10,7 +10,7 @@ Entrega:
 
 2. Similaridades de Produtos
 Entrega: 
-- Jupyter notebook com o cálculo das similaridades - Arquivo XXX
+- Jupyter notebook com o cálculo das similaridades - **Arquivo similaridade.ipynb**
 - Tabela com as similaridades - **Arquivo resultado.xlsx**
 
 3. Previsão de Falha
